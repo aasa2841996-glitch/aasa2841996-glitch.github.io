@@ -1,12 +1,8 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.hadhramshop.app",
-      "sha256_cert_fingerprints": [
-        "1E:08:A9:03:AE:F9:C3:A7:21:51:0B:64:EC:76:4D:01:D3:D0:94:EB:95:41:61:B6:25:44:EA:8F:18:7B:59:53"
-      ]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.hadhramshop.app",
+        "sha256_cert_fingerprints": ["E5:EC:D9:3C:88:98:8B:BB:B1:C6:17:50:BC:E2:4B:C6:9B:00:35:BC:2D:57:21:A5:34:DE:A8:86:60:19:67:9F"]
+      }
+    }]
